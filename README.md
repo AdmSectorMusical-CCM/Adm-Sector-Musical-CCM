@@ -1,4 +1,4 @@
-# Musical Sector Adm - CCM
+# Adm Sector Musical - CCM
 
 Repositório de apoio aos encarregados de orquestra da Congregação Cristã em Moçambique.
 
